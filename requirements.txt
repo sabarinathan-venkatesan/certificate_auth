@@ -1,0 +1,6 @@
+Flask==2.3.2
+SQLAlchemy==2.0.21
+pytesseract==0.3.13
+opencv-python==4.8.0.74
+Pillow==10.0.0
+Werkzeug==2.3.7
